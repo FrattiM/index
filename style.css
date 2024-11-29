@@ -14,8 +14,8 @@ header {
 
 .header-content {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: justify;
+    justify-content: justify;
     gap: 1em;
 }
 
